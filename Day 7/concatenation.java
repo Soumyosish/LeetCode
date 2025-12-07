@@ -19,6 +19,6 @@ public class concatenation {
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
-        System.out.println(Arrays.toString(getConcatenation(arr)));
-    }
+        System.out.println(Arrays.toString(getConcatenation(arr)));  //printing the final array
+    } 
 }
