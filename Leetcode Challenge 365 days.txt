@@ -3,3 +3,4 @@ Day 2 - N repeated element in 2d array description (LeetCode Problem 961) https:
 Day 3 - Number of Ways 3*n grid (LeetCode Problem 1411) https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/
 Day 4 - Four Divisors (LeetCode Problem 1390) https://leetcode.com/problems/four-divisors/description/
 Day 5 - Maximum matrix sum(LeetCode problem 1975) https://leetcode.com/problems/maximum-matrix-sum/description/
+Day 6 - Palindrome Number(LeetCode Problem 9) https://leetcode.com/problems/palindrome-number/description/
