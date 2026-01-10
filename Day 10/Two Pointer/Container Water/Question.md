@@ -17,5 +17,5 @@ n == height.length
 2 <= n <= 105
 0 <= height[i] <= 104
 
-Time Complexity:
-Space Complexity: 
+Time Complexity: O(n)
+Space Complexity:  O(1)
