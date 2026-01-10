@@ -7,3 +7,5 @@ Day 6 - Palindrome Number(LeetCode Problem 9) https://leetcode.com/problems/pali
 Day 7 - Reverse Integer (LeetCode Problem 7) https://leetcode.com/problems/reverse-integer/description/
 Day 8 - Sort Colors (LeetCode Problem 75) https://leetcode.com/problems/sort-colors/description/
 Day 9 - Power (LeetCode Problem 50) https://leetcode.com/problems/powx-n/description/
+Day 10 - Two Sum (LeetCode Problem 1) https://leetcode.com/problems/two-sum/description/
+Day 11 - Container with most water (LeetCode Problem 11) https://leetcode.com/problems/container-with-most-water/description/
