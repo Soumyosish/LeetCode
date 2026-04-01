@@ -1,0 +1,1 @@
+Welcome to the LeetCode Practice by following patters
