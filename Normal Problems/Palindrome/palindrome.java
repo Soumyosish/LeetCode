@@ -1,3 +1,4 @@
+package Palindrome;
 import java.util.*;
 public class palindrome {
     public static boolean isPalindrome(int x) {
