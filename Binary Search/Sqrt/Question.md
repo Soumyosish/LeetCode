@@ -19,5 +19,5 @@ Constraints:
 
 0 <= x <= 231 - 1
 
-Time Complexity: O(1)
+Time Complexity: O(1) if used Math function and in binary search logic it is o(logn)
 Space Complexity: O(1)
