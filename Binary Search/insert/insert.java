@@ -5,26 +5,20 @@ public class insert {
         int end=nums.length-1;
         while(start<=end){
             int mid=(start+end)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
-            else if(nums[mid]<target){
-                start=mid+1;
-            }
-            else{
-                end=mid-1;
-            }
+            if(nums[mid]==target)   return mid;
+            else if(nums[mid]<target)   start=mid+1;
+            else    end=mid-1;
         }
         return start;
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int[] nums=new int[n];
+        int arr[]=new int[n];
         for(int i=0;i<n;i++){
-            nums[i]=sc.nextInt();
+            arr[i]=sc.nextInt();
         }
         int target=sc.nextInt();
-        System.out.println(searchInsert(nums,target));
+        System.out.println(searchInsert(arr,target));
     }
 }

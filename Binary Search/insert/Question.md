@@ -23,5 +23,5 @@ Constraints:
 nums contains distinct values sorted in ascending order.
 -104 <= target <= 104
 
-Time Complexity:O(logn)
-Space Complexity:O(1)
+Time Complexity: O(logn)
+Space Complexity: O(1)
