@@ -9,3 +9,4 @@ Recursion
 Sliding Window
 Strings (Two Pointers)
 Two Pointers
+Prefix Sum
