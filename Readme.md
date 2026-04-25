@@ -1,6 +1,6 @@
 # LeetCode Practice Repository
 
-Welcome to the LeetCode Practice guide organized by problem-solving patterns.
+Welcome to the LeetCode Practice guide organized by problem-solving patterns daily.
 
 ## Patterns Covered
 
