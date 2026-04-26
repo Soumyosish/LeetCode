@@ -2,7 +2,7 @@
 
 Welcome to the LeetCode Practice guide organized by problem-solving patterns daily.
 
-## Patterns Covered
+## Patterns Practised Till now:
 
 ### Data Structures
 - **HashMap** - Hash table based problems
@@ -17,7 +17,7 @@ Welcome to the LeetCode Practice guide organized by problem-solving patterns dai
 - **Strings (Two Pointers)** - String manipulation with two pointers
 
 ### Problem Levels
-- **Lower** - Beginner level problems
+- **Lower/Upper Bound** - Beginner level problems
 - **Normal Practice Problems** - Standard difficulty problems
 
 ---
