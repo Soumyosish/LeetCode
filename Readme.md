@@ -7,7 +7,6 @@ This is based on the Rising Brain DSA sheet
 
 ### Data Structures
 - **HashMap** - Hash table based problems
-- **Queue** - Queue-based algorithms
 
 ### Algorithms
 - **Binary Search** - Efficient searching in sorted data
