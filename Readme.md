@@ -7,6 +7,7 @@ This is based on the Rising Brain DSA sheet
 
 ### Data Structures
 - **HashMap** - Hash table based problems
+- **Stack** - Stores the value by LIFO
 
 ### Algorithms
 - **Binary Search** - Efficient searching in sorted data
