@@ -3,7 +3,7 @@
 Welcome to the LeetCode Practice guide organized by problem-solving patterns daily implementing varieties of pattern problems.
 This is based on the Rising Brain DSA sheet 
 
-## Patterns Practised Till now:
+## Patterns Practised Till Now:
 
 ### Data Structures
 - **HashMap** - Hash table based problems
