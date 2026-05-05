@@ -23,7 +23,7 @@ This is based on the Rising Brain DSA sheet
 
 ---
 
-## Getting Started
+## Getting Started:
 
 Each pattern folder contains LeetCode problems solved with detailed explanations and followed by examples with optimized approach.It is the pattern wise I am following to strengthen my DSA journey.
 
