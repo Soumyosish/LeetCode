@@ -18,7 +18,7 @@ This is based on the Rising Brain DSA sheet
 - **Strings (Two Pointers)** - String manipulation with two pointers
 
 ### Problem Levels
-- **Lower/Upper Bound** - Beginner level problems
+- **Lower/Upper Bound** - Beginner level problems with optimal approaches
 - **Normal Practice Problems** - Standard difficulty problems
 
 ---
